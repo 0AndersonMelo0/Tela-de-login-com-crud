@@ -1,5 +1,8 @@
 # Tela-de-login-com-crud
-<h4>Criadores: Anderson Melo da Silva(https://github.com/0AndersonMelo0) e David Saboia e Silva Filho(https://github.com/DavidSSF)</h4>
+<h4>Criadores: Anderson Melo da Silva(https://github.com/0AndersonMelo0) e David Saboia e Silva Filho(https://github.com/DavidSSF)
+<br>
+  Alunos do 2 ano de informática da EEEP Manoel Mano 2023
+</h4>
 <h5>link do projeto funcionando: https://0andersonmelo0.github.io/Tela-de-login-com-crud/</h5>
 <br>
 <h2>Breve explicação do código</h2>
