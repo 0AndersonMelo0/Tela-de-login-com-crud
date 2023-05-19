@@ -8,7 +8,7 @@
   Realizar ações como atualizar e excluir os formulários.
  
 ![Captura de Tela (86)](https://github.com/0AndersonMelo0/Tela-de-login-com-crud/assets/111611117/039882c2-a7c6-4021-83e8-e19b216390e0)
-br>
+<br>
    A aplicação também inclui recursos de criação de conta, onde os usuários podem criar uma conta com um nome de usuário e senha.
   
   //Criar conta
