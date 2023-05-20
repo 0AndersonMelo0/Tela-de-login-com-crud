@@ -166,6 +166,8 @@ btn_verfor.addEventListener('click', function () {
 
     not_none('formulario')
 
+    none('atualizar-btn')
+
     var l = localStorage.getItem(`CRUD:${(localStorage.getItem('estado:').split(','))[1]}`).split(';')
 
     nome.placeholder = l[1]
